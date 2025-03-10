@@ -9,22 +9,15 @@ CASKS=(
   visual-studio-code
   vlc
   iina
-  sync
-  cyberduck
   microsoft-teams
-  silicon
-  qflipper
   ollama
   the-unarchiver
-  cheatsheet
-  zenmap
 )
 
 # Homebrew Formulae: Command line tools installed via Homebrew.
 FORMULAE=(
   fish
   tree
-  nmap
   wget
   git
   )
